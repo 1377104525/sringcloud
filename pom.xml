@@ -102,7 +102,7 @@
                 <artifactId>commons-beanutils</artifactId>
                 <version>${commons-beanutils.version}</version>
             </dependency>
-            <!-- https://mvnrepository.com/artifact/org.redisson/redisson-spring-boot-starter -->
+
             <dependency>
                 <groupId>org.redisson</groupId>
                 <artifactId>redisson-spring-boot-starter</artifactId>
