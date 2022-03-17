@@ -36,6 +36,7 @@
       <module name="chan-api" options="-parameters" />
       <module name="chan-service" options="-parameters" />
       <module name="coin-common" options="-parameters" />
+      <module name="coin-exchange" options="-parameters" />
       <module name="coin-task" options="-parameters" />
       <module name="exchange-api" options="-parameters" />
       <module name="exchange-service" options="-parameters" />
